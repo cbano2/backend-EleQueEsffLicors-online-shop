@@ -1,6 +1,6 @@
 {
   "name": "backend-elequeesff",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Proyecto Backend API GraphQL Tienda Online-Elequeesff",
   "main": "build/server.js",
   "scripts": {
